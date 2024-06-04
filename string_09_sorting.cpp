@@ -9,4 +9,7 @@ int main(){
     string s2="452187325479";
     sort(s2.begin(),s2.end());
     cout<<s2<<endl;
+    string s3="kahfiuaGfak";
+    sort(s3.rbegin(),s3.rend());
+    cout<<s3<<endl;
 }
