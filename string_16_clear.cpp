@@ -24,4 +24,9 @@ int main(){
     for(auto i:v){
         cout<<i<<endl;
     }
+    //another
+    string s="Abcdge";
+    cout<<s<<endl;
+    s.clear();
+    cout<<s<<endl;
 }
