@@ -4,5 +4,5 @@ int main()
 {
     string s1="abcde";
 
-    cout<<s1.substr(2,2)<<endl;//substr(position,total size want to remove for replacement)
+    cout<<s1.substr(2,2)<<endl;//substr(position,total size want to take)
 }
