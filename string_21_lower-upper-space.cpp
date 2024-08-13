@@ -25,5 +25,7 @@ int main(){
     s='B';
     s=tolower(s);
     cout<<s<<endl;
+    string s="abcd";
+    cout<<(char)toupper(s[0])<<endl;
 
 }
